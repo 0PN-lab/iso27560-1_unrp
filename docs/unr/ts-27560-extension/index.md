@@ -1,9 +1,9 @@
 <!--
 Canonical extension for 0PN-lab/specs.
-Source: KantaraInitiative/ancr-wg — ancr-ts-27560-extension/ancr-ts-27560 Notice Record Extension.md
+Source: KantaraInitiative/ancr-wg, path ancr-ts-27560-extension/ancr-ts-27560 Notice Record Extension.md
 Commit: c13511f6c9cb54c224c8a1e95be87bd8569b8f72
 Retrieved: 2026-08-18
-Status: CANONICAL current extension. Profiles and EXTENDS ISO/IEC TS 27560:2023 — a companion
+Status: CANONICAL current extension. Profiles and EXTENDS ISO/IEC TS 27560:2023, a companion
 specification, not an adopted ISO deliverable. Supersedes the UNR/UNRP v1.x lineage retained
 under "ANCR - Exchange/ISO-27560 Extension /Archive/".
 -->
