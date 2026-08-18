@@ -1,8 +1,8 @@
-# ISO/IEC 27560-1: Universal Notice Receipt Profile
+# 0PN Lab Notice Receipt Profile (extends ISO/IEC TS 27560:2023)
 
-**Convention 108+ Code of Conduct | Transparency-by-Default Architecture**
+**Aligned with the Convention 108+ framework | Transparency-by-Default Architecture**
 
-[![License: OPN RF-RAND](https://img.shields.io/badge/License-OPN_RF--RAND-blue.svg)](LICENSE)
+[![License: OPN RF-RAND](https://img.shields.io/badge/License-OPN_RF--RAND-blue.svg)](./LICENSE.md)
 
 [![Status: Consolidated Draft (v1.2)](https://img.shields.io/badge/Status-CONSOLIDATED_DRAFT_(v1.2.1)-orange.svg)](https://github.com/0PN-lab/specs/blob/bd54d86fe8d063b6f935f1adf5cadb6adf85f928/27560%20profile%20/v%201.2%20-%20Digital%20Notice%20%26%20Consent%20Profile%20/v1.2%20-%20Digital%20Consent%20(consolidated).md)
 
@@ -37,7 +37,7 @@ This repo contains the 0PN Lab profile lineage that extends the ISO/IEC TS 27560
 
 ## Overview
 
-ISO/IEC 27560-1 Universal Notice Receipt Profile provides Digital Public Transparency Infrastructure (DPTI) enabling:
+The 0PN Lab Notice Receipt Profile (extending ISO/IEC TS 27560:2023) provides Digital Public Transparency Infrastructure (DPTI) enabling:
 
 - **Controller-ID First**: Machine-readable Controller Identification Records (CIR)
 - **Bilateral Receipts**: Notice Receipts held by both controller and individual
@@ -115,7 +115,7 @@ Transparency-by-Default (This Spec):
 - **Implementers**: Controllers, privacy officers, developers
 - **Researchers**: Privacy, security, AI governance
 
-See [CONTRIBUTING.md](http://CONTRIBUTING.md) for guidelines.
+Contributions welcome. Open an issue or a [GitHub Discussion](https://github.com/0PN-lab/specs/discussions).
 
 ## Development Timeline (v1.1)
 
@@ -128,7 +128,7 @@ See [CONTRIBUTING.md](http://CONTRIBUTING.md) for guidelines.
 
 This specification is published under the **OPN RF-RAND IPR License**.
 
-See [LICENSE.md](http://LICENSE.md) for full terms.
+See [LICENSE.md](./LICENSE.md) for full terms.
 
 **Summary**: Royalty-free for implementation; reasonable and non-discriminatory terms for patents.
 
@@ -136,12 +136,12 @@ See [LICENSE.md](http://LICENSE.md) for full terms.
 
 **0PN Lab** (Zero spoken as 0pen-Public-Notice Lab) develops Digital Public Transparency Infrastructure (DPTI) as regulatory capacity infrastructure.
 
-- 🌐 **Blog**: [lab.0pn.org](http://lab.0pn.org)
-- 🔬 **Website**: [transparencylab.ca](http://transparencylab.ca)
+- 🌐 **Blog**: [lab.0pn.org](https://lab.0pn.org)
+- 🔬 **Website**: [transparencylab.ca](https://transparencylab.ca)
 - 📧 **Contact**: [standards@0pn.org](mailto:standards@0pn.org)
-- 💬 **Community**: [GitHub Discussions](https://github.com/0pn-lab/iso-27560-unrp/discussions)
+- 💬 **Community**: [GitHub Discussions](https://github.com/0PN-lab/specs/discussions)
 
-**Author**: Mark Lizar, @)0PN Digital Transparency Lab  - A Global Privacy Rights Company
+**Author**: Mark Lizar, 0PN Digital Transparency Lab, A Global Privacy Rights Company
 
 **Chair, Convention 108 Committee Keynote**: [Beatriz de Anchorena](https://0pn.org/events/international-privacy-day-2026)
 
@@ -156,4 +156,4 @@ See [LICENSE.md](http://LICENSE.md) for full terms.
 
 ---
 
-*Published by 0PN Lab | Convention 108+ Code of Conduct | Transparency-by-Default Architecture*
+*Published by 0PN Lab | Aligned with the Convention 108+ framework | Transparency-by-Default Architecture*
