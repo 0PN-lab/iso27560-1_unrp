@@ -10,6 +10,8 @@
 
 > **⚠️ CONSOLIDATED DRAFT**: v1.2.1 (“Digital Consent”) consolidates the UNR profile lineage (v1 → v1.01 → v1.1) into a single Code of Conduct Profile packaging. For the most stable implementer reference, start with **[v1.01 (baseline)](https://github.com/0PN-lab/specs/blob/e19ad403f5ee6a200ff65d02913fd854243b356f/27560%20profile%20/v%201.01%20-%20UNR%20-%20Notice%20Receipt/ISO-IEC-27560-1-v1.01.md)**.
 
+> **✅ CANONICAL EXTENSION:** The current, submission-safe specification is the **[ANCR ISO/IEC TS 27560:2023 Notice Record Extension v0.3](./docs/unr/ts-27560-extension/index.md)** — co-regulated identification frame, Kantara Reciprocal RF/RAND. It *profiles and extends* ISO/IEC TS 27560:2023 (a companion specification, not an adopted ISO deliverable) and supersedes the UNR/UNRP v1.x lineage below, which is retained for reference.
+
 ## Start here (recommended reading path)
 
 This repo contains the 0PN Lab profile lineage that extends the ISO/IEC TS 27560:2023 base information structure into deployable transparency-by-default infrastructure.

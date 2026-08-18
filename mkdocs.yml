@@ -10,9 +10,10 @@ nav:
   - Home: index.md
 
   - Start here:
+      - ANCR TS 27560 Extension v0.3 (canonical): unr/ts-27560-extension/index.md
       - DCR v1.2 (Digital Consent, consolidated): unr/dcr/v1.2/index.md
 
-  - UNR profile lineage (prerequisite):
+  - UNR profile lineage (superseded — prerequisite reading):
       - v1 (submission): unr/v1/index.md
       - v1.01 (baseline): unr/v1.01/index.md
       - v1.1 (working draft): unr/v1.1/index.md
